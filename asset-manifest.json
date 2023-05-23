@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/absorlut/static/css/main.69a9c824.css",
+    "main.js": "/absorlut/static/js/main.17366132.js",
+    "static/js/787.5b2cee3d.chunk.js": "/absorlut/static/js/787.5b2cee3d.chunk.js",
+    "index.html": "/absorlut/index.html",
+    "main.69a9c824.css.map": "/absorlut/static/css/main.69a9c824.css.map",
+    "main.17366132.js.map": "/absorlut/static/js/main.17366132.js.map",
+    "787.5b2cee3d.chunk.js.map": "/absorlut/static/js/787.5b2cee3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a9c824.css",
+    "static/js/main.17366132.js"
+  ]
+}
